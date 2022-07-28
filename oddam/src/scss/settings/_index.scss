@@ -1,0 +1,23 @@
+@import "fonts";
+
+
+/*html, body - style*/
+html,
+body {
+  font-family: $font-base;
+  width: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1352px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.wrapper {
+  width: 100%;
+}
